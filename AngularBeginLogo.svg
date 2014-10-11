@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.23"
-     inkscape:cx="231.97145"
-     inkscape:cy="262.08556"
+     inkscape:zoom="2"
+     inkscape:cx="258.48678"
+     inkscape:cy="334.68272"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -90,6 +90,42 @@
        orientation="0,1"
        position="250,22"
        id="guide3171" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="269.5,441"
+       id="guide3175" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="210,290.5"
+       id="guide3177" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="286.5,345.5"
+       id="guide3179" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="265.5,252.5"
+       id="guide3181" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="250,212.5"
+       id="guide3183" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="193,199"
+       id="guide3185" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="116,136"
+       id="guide3187" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="166,136"
+       id="guide3189" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="166,146"
+       id="guide3191" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -104,7 +140,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Shield Border"
+     inkscape:label="Border"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-552.36218)">
