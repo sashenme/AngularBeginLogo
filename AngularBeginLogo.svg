@@ -29,7 +29,7 @@
      inkscape:cx="199.48678"
      inkscape:cy="174.68272"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="744"
@@ -144,7 +144,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-552.36218)"
-     style="display:none">
+     style="display:inline">
     <image
        y="530.36218"
        x="-57"
@@ -156,11 +156,23 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Border">
+     inkscape:label="Border"
+     style="display:inline">
     <path
        style="fill:#b3b3b3;fill-opacity:1;stroke:none;display:inline"
        d="M 250,21 37,95 72,377 250,478 250,453.5 87.5,364 58,112 250,44 z"
        id="path3193"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Field Left"
+     style="display:inline">
+    <path
+       style="fill:#d43536;fill-opacity:1;stroke:none"
+       d="M 250,44 58,112 87.5,364 250,453.5 z"
+       id="path4009"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
