@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="258.48678"
-     inkscape:cy="334.68272"
+     inkscape:zoom="1"
+     inkscape:cx="199.48678"
+     inkscape:cy="174.68272"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="744"
@@ -140,10 +140,11 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Border"
+     inkscape:label="Guide"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-552.36218)">
+     transform="translate(0,-552.36218)"
+     style="display:none">
     <image
        y="530.36218"
        x="-57"
@@ -151,5 +152,15 @@
        xlink:href="file:///home/budhajeewa/Desktop/AngularBegin/facebook-share-0ec0ac84981dbfaf5ab15904eef273e1.png"
        height="631"
        width="631" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Border">
+    <path
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;display:inline"
+       d="M 250,21 37,95 72,377 250,478 250,453.5 87.5,364 58,112 250,44 z"
+       id="path3193"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
